@@ -1,0 +1,23 @@
+Let's start by the definitions.
+
+Machine : an algorithm that can learn from data without relying on rules-based programming.
+
+Statistical Modelling: formalization of relationships between variables in the form of mathematical equations.
+
+image
+
+https://www.edvancer.in/wp-content/uploads/2016/01/ML-vs.-stats1.png
+
+Machine learning is all about predictions, supervised learning, unsupervised learning, Statistics is about sample, population, hypothesis, Both machine learning and statistics have the same
+
+They came up in different
+Statistical modeling has been there for centuries now. However, Machine learning is a very recent development. It came into existence in the 1990s as steady advances in digitization and cheap computing power enabled data scientists to stop building finished models and instead train computers to do so. The unmanageable volume and complexity of the big data that the world is now swimming in have increased the potential of machine learning—and the need for it.
+
+Naming Convention
+imagehttps://i2.wp.com/www.sharpsightlabs.com/wp-content/uploads/2016/05/2016-05-03_difference-between-machine-learning-and-statistics-1-600x342.png?w=450
+
+Types of data they deal with
+Machine Learning algorithms are wide range tools. Online Learning tools predict data on the fly. These tools are capable of learning from trillions of observations one by one. They make prediction and learn simultaneously. Other algorithms like Random Forest and Gradient Boosting are also exceptionally fast with big data. Machine learning does really well with wide (high number of attributes) and deep (high number of observations). However statistical modeling are generally applied for smaller data with less attributes or they end up over fitting.
+
+Conclusion
+However, it may seem that machine learning and statistical modeling are two different branches of predictive modeling, they are almost the same. The difference between these two have gone down significantly over past decade. Both the branches have learned from each other a lot and will further come closer in future. I hope we motivated you enough to acquire skills in each of these two domains and then compare how do they compliment each other.
